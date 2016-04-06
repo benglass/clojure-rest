@@ -1,6 +1,6 @@
 # clojure-rest
 
-FIXME
+Tutorial from https://blog.interlinked.org/programming/clojure_rest.html
 
 ## Prerequisites
 
